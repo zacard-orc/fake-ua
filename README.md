@@ -1,9 +1,12 @@
 # fake-ua
-A Random Generator for User-Agent , Just use for Spider, Automation, Compatibility Test :tada: :tada: :clown_face:
+A Random Generator for User-Agent , Just use for Spider, Automation, Compatibility Test :tada: :tada: :clown_face:  
+
+Github: https://github.com/zacard-orc/fake-ua  
+Npm: https://www.npmjs.com/package/fake-uagt
 
 # How to Use
 ```shell script
-yarn add fake-ua --save
+yarn add fake-uagt --save
 ```
 ```js
 const { FauGen } = require('fake-ua');
