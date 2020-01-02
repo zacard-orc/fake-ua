@@ -1,7 +1,7 @@
 {
-  "name": "fake-ua",
+  "name": "fake-uagt",
   "version": "1.1.0",
-  "description": "\"# fake-ua\"",
+  "description": "A Random Generator for User-Agent , Just use for Spider, Automation, Compatibility Test",
   "main": "index.js",
   "directories": {
     "examples": "examples",
@@ -9,6 +9,7 @@
     "test": "test"
   },
   "scripts": {
+    "dev": "node ./test/fau1.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
