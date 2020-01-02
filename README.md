@@ -26,8 +26,8 @@ Mozilla/5.0 (Windows NT/5.1;Win64,x64) AppleWebKit/530.75 Gecko/20100621 Chrome/
 ```
 
 # Feature
-:tada: a simple random fake user-agent string base on chrome
-:tada: support random weight, just like q=0.5,q=0.5,***
+- :tada: a simple random fake user-agent string base on chrome
+- :tada: support random weight, just like q=0.5,q=0.5,***
 
 # Example for Others
 ### axios
@@ -63,5 +63,10 @@ page.setUserAgent(iFau.slim())
 
 
 # Useful
- <img src="./examples/react.svg" width = "100" height = "100" alt="react" align=center />
+- :fire: React
+- :fire: Vue
+- :fire: NodeJs
+- :fire: Electron
+
+# MIT License
 
