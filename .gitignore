@@ -1,0 +1,10 @@
+# tmp test
+atest
+
+# ide
+.idea
+.vscode
+
+# some file
+package-lock.json
+yarn.lock
