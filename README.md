@@ -9,7 +9,7 @@ Npm: https://www.npmjs.com/package/fake-uagt
 yarn add fake-uagt --save
 ```
 ```js
-const { FauGen } = require('fake-ua');
+const { FauGen } = require('fake-uagt');
 const iFau = new FauGen();
 
 console.log(iFau.slim());
