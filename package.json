@@ -1,8 +1,8 @@
 {
   "name": "fake-uagt",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Random Generator for User-Agent , Just use for Spider, Automation, Compatibility Test",
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "examples": "examples",
     "lib": "lib",
