@@ -1,6 +1,6 @@
 {
   "name": "fake-ua",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "\"# fake-ua\"",
   "main": "index.js",
   "directories": {
